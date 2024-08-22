@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Judith-20/My-First-React-Calculator.git/static/css/main.7aaa5677.css",
-    "main.js": "/Judith-20/My-First-React-Calculator.git/static/js/main.c32d4ccf.js",
-    "static/js/453.920350f8.chunk.js": "/Judith-20/My-First-React-Calculator.git/static/js/453.920350f8.chunk.js",
-    "index.html": "/Judith-20/My-First-React-Calculator.git/index.html",
-    "main.7aaa5677.css.map": "/Judith-20/My-First-React-Calculator.git/static/css/main.7aaa5677.css.map",
-    "main.c32d4ccf.js.map": "/Judith-20/My-First-React-Calculator.git/static/js/main.c32d4ccf.js.map",
-    "453.920350f8.chunk.js.map": "/Judith-20/My-First-React-Calculator.git/static/js/453.920350f8.chunk.js.map"
+    "main.css": "/My-First-React-Calculator/static/css/main.7aaa5677.css",
+    "main.js": "/My-First-React-Calculator/static/js/main.a8fc3d5d.js",
+    "static/js/453.920350f8.chunk.js": "/My-First-React-Calculator/static/js/453.920350f8.chunk.js",
+    "index.html": "/My-First-React-Calculator/index.html",
+    "main.7aaa5677.css.map": "/My-First-React-Calculator/static/css/main.7aaa5677.css.map",
+    "main.a8fc3d5d.js.map": "/My-First-React-Calculator/static/js/main.a8fc3d5d.js.map",
+    "453.920350f8.chunk.js.map": "/My-First-React-Calculator/static/js/453.920350f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7aaa5677.css",
-    "static/js/main.c32d4ccf.js"
+    "static/js/main.a8fc3d5d.js"
   ]
 }
