@@ -1,4 +1,58 @@
-# Getting Started with Create React App
+# Calculator App
+
+A simple calculator application built with React and styled using CSS. This app supports basic arithmetic operations and has an intuitive UI.
+
+## Features
+
+- Basic arithmetic operations: addition, subtraction, multiplication, division
+- Support for decimal point calculations
+- Clear and reset functionality
+- Keyboard support for input
+- Responsive design with intuitive button layout
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces
+- **React Icons**: Icon library for adding calculator icon
+- **CSS**: For styling components
+
+## Demo
+
+You can view the live demo of the calculator app [here](https://github.com/Judith-20/My-First-React-Calculator.git).
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+### Prerequisites
+
+- Node.js and npm should be installed on your system. You can download them [here](https://nodejs.org/).
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/repository-name.git
+
+2. Navigate into the project directory:
+   ```bash
+   cd repository-name
+
+3. Install dependencies:
+    ```bash
+    npm install
+
+4. Start the development server:
+    ```bash
+    npm start
+
+
+
+
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +121,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->

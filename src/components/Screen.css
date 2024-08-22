@@ -1,0 +1,45 @@
+.screen {
+  height: 4rem;
+  width: 100%;
+  margin-top: 1.5rem;
+  /* margin-bottom: 10px; */
+  /* margin-left: 10px; */
+  padding: 0 10px;
+
+  /* background-color: hsl(0, 9%, 98%); */
+  /* background-color: hsl(0, 0%, 0%); */
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  color: white;
+  font-weight: 400;
+  border: none;
+  box-sizing: border-box;
+  padding-right: 0.85rem;
+
+  /* border-radius: 1.5rem;
+  open sans noto sans japanese */
+}
+.display-text {
+  font-size: 2.5rem; /* Default font size */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: right;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* Responsive font size adjustments */
+@media (max-width: 600px) {
+  .display-text {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .display-text {
+    font-size: 1rem;
+  }
+}

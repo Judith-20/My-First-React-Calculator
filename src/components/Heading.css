@@ -1,0 +1,15 @@
+.content{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1.6rem;
+    padding-top: 0.6rem;
+}
+
+h5{
+    /* color: black; */
+    font-weight: 600;
+    font-size: 2rem;
+    margin: 0;
+    
+}

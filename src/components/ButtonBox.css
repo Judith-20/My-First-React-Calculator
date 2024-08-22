@@ -1,0 +1,11 @@
+.buttonBox {
+  width: 100%;
+  height: calc(100% - 110px);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Create a grid with 4 columns */
+  grid-gap: 0.5rem; /* Adjust the spacing between buttons */
+  border-radius: 2rem;
+  padding: 1rem; 
+  /* margin-left: 0.5rem;
+  margin-right: 0.5rem; */
+}

@@ -1,0 +1,54 @@
+button {
+  border: none;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 2rem;
+  outline: none;
+  width: 6.3rem;
+  height: 3.2rem;
+}
+
+/* button:hover {
+  opacity: 0.9;
+} */
+
+/* Styles for number buttons and the decimal point */
+.number {
+  background-color: hsl(240, 10%, 18%);
+  color: rgb(255, 255, 255);
+}
+.number:hover {
+  background-color: hsl(240, 10%, 25%);
+}
+
+/* Styles for special buttons (AC, +/-, %) */
+.special {
+  background-color: hsla(189, 34%, 88%, 0.863);
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+.special:hover {
+  background-color: hsla(187, 100%, 95%, 0.863);
+}
+/* Styles for the button 0 */
+.zero {
+  background-color: hsl(240, 10%, 18%);
+  color: rgb(255, 255, 255);
+  grid-column: span 2;
+  width: 15.2rem;
+}
+.zero:hover {
+  background-color: hsl(240, 10%, 25%);
+}
+
+/* Styles for the equals, +, -, /, * buttons */
+.equals {
+  /* background-color: rgba(244, 179, 0, 0.904); */
+  background-color: rgba(255, 166, 0, 0.959);
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+}
+.equals:hover{
+  background-color: rgba(255, 182, 46, 0.959);
+}
