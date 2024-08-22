@@ -2,7 +2,7 @@
   "name": "my-first-react-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Judith-20/My-First-React-Calculator.git",
+  "homepage": "https://github.com/Judith-20/My-First-React-Calculator",
   "dependencies": {
     "@gmurph91/react-textfit": "^1.1.4",
     "@testing-library/jest-dom": "^5.17.0",
