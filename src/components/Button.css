@@ -9,10 +9,6 @@ button {
   height: 3.2rem;
 }
 
-/* button:hover {
-  opacity: 0.9;
-} */
-
 /* Styles for number buttons and the decimal point */
 .number {
   background-color: hsl(240, 10%, 18%);
@@ -44,11 +40,34 @@ button {
 
 /* Styles for the equals, +, -, /, * buttons */
 .equals {
-  /* background-color: rgba(244, 179, 0, 0.904); */
   background-color: rgba(255, 166, 0, 0.959);
   color: rgb(255, 255, 255);
   font-weight: 500;
 }
-.equals:hover{
+.equals:hover {
   background-color: rgba(255, 182, 46, 0.959);
+}
+
+@media (max-width: 375px) {
+  button {
+    border-radius: 1.3rem;
+    outline: none;
+    width: 4rem;
+    height: 3rem;
+  }
+  .zero {
+    grid-column: span 2;
+    width: 8.8rem;
+  }
+}
+@media (max-width: 480px) {
+  button {
+    border-radius: 1.3rem;
+    width: 4rem;
+    height: 3rem;
+  }
+  .zero {
+    grid-column: span 2;
+    width: 8.8rem;
+  }
 }

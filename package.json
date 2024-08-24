@@ -2,17 +2,19 @@
   "name": "my-first-react-calculator",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://Judith-20.github.io/My-First-React-Calculator"
-,
+  "homepage": "https://Judith-20.github.io/My-First-React-Calculator",
   "dependencies": {
     "@gmurph91/react-textfit": "^1.1.4",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "auto-text-size": "^0.2.3",
     "fit-text": "^2.0.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-fitty": "^1.0.1",
     "react-icons": "^5.3.0",
+    "react-scale-text": "^1.2.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },

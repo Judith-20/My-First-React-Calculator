@@ -5,7 +5,14 @@
   grid-template-columns: repeat(4, 1fr); /* Create a grid with 4 columns */
   grid-gap: 0.5rem; /* Adjust the spacing between buttons */
   border-radius: 2rem;
-  padding: 1rem; 
-  /* margin-left: 0.5rem;
-  margin-right: 0.5rem; */
+  padding: 1rem;
+}
+
+@media (max-width: 375px) {
+  .buttonBox {
+    grid-gap: 0.1rem;
+    padding: 1rem 0;
+    padding-left: 0.45rem;
+    height: calc(100% - 98px);
+  }
 }
