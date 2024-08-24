@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/My-First-React-Calculator/static/css/main.7aaa5677.css",
-    "main.js": "/My-First-React-Calculator/static/js/main.a8fc3d5d.js",
+    "main.css": "/My-First-React-Calculator/static/css/main.0009446a.css",
+    "main.js": "/My-First-React-Calculator/static/js/main.6fdfb902.js",
     "static/js/453.920350f8.chunk.js": "/My-First-React-Calculator/static/js/453.920350f8.chunk.js",
     "index.html": "/My-First-React-Calculator/index.html",
-    "main.7aaa5677.css.map": "/My-First-React-Calculator/static/css/main.7aaa5677.css.map",
-    "main.a8fc3d5d.js.map": "/My-First-React-Calculator/static/js/main.a8fc3d5d.js.map",
+    "main.0009446a.css.map": "/My-First-React-Calculator/static/css/main.0009446a.css.map",
+    "main.6fdfb902.js.map": "/My-First-React-Calculator/static/js/main.6fdfb902.js.map",
     "453.920350f8.chunk.js.map": "/My-First-React-Calculator/static/js/453.920350f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7aaa5677.css",
-    "static/js/main.a8fc3d5d.js"
+    "static/css/main.0009446a.css",
+    "static/js/main.6fdfb902.js"
   ]
 }
